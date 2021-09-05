@@ -10,7 +10,6 @@
   position: sticky;
   top: 0px;
   z-index: 10;
-  margin-bottom: 20px;
 }
 nav {
   display: flex;
@@ -18,7 +17,7 @@ nav {
 }
 nav a {
   text-decoration: none;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   color: white;
   padding: 10px 20px;
   border-radius: 10px;
@@ -32,8 +31,8 @@ nav a:hover {
   background: url(../../images/practical-8/hero\ image.jpg);
   background-size: cover;
   background-position: center;
-  height: 700px;
-  font-size: 4rem;
+  height: 400px;
+  font-size: 2rem;
   padding: 40px;
   margin-top: 10px;
   color: white;
@@ -41,12 +40,12 @@ nav a:hover {
 }
 .section {
   text-align: center;
-  margin-top: 70px;
+  margin-top: 40px;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 #section-1-container {
-  margin-top: 20px;
+  margin-top: 10px;
   display: flex;
   justify-content: space-around;
 }
@@ -70,7 +69,7 @@ nav a:hover {
   background-color: rgb(136, 136, 243);
   margin-right: 10px;
   width: 50%;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-align: justify;
   padding: 20px;
   height: 350px;
@@ -91,7 +90,7 @@ nav a:hover {
 #section-3-container {
   display: flex;
   justify-content: space-around;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .section #section-3-container .items {
   width: 25%;
@@ -102,7 +101,7 @@ nav a:hover {
 }
 #section-4-container {
   background-color: rgb(230, 114, 133);
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-left: 20px;
   text-decoration: none;
   margin-top: 10px;
