@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: gray;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin: 20px;
+}
+button{
+    background-color: yellow;
+    padding: 10px;
+    font-weight: 700;
+    margin: 20px;
+    font-size: 30px;
+}
+span{
+    font-size: 30px;
+    color: yellow;
+}
